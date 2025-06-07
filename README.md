@@ -6,7 +6,7 @@ To-the-point, no bullshit guides for every mission in the MMORPG Final Fantasy X
 These guides expect you to be at Level 99 for ease of completion, and aware of how to make use of Home Points, Survival Guides, Unity warps, etc. Fights will only be explained if resembling a challenge to a Level 99 player. 
 
 ## Nations
-[![San d'Orian Flag](rsc/images/mission-category-img/sandoria.png 'San d\'Oria Nation Missions')](Nations/San-d'Oria) 
+[![San d'Orian Flag](rsc/images/mission-category-img/sandoria.png 'San d\'Oria Nation Missions')](Nations/San-d'Oria/San-d'Oria-Top.md) 
 [![Bastokan Flag](rsc/images/mission-category-img/bastok.png 'Bastok Nation Missions')](Nations/Bastok)
 [![Windurstian Flag](rsc/images/mission-category-img/windurst.png 'Windurst Nation Missions')](Nations/Windurst)
 ## Expansions
